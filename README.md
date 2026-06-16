@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with additional skill sets I may require to prepare me for IT industry.
 - 💬 Ask me about anything. I will try my best with my capability to answer.
 - ⚙️ In terms of coding, I am fairly proficient in Python. I also have knowledge and experience in Javascript, Html as well as handling with online application such as socketio. I could also code with C#, C++.
-- 📫 How to reach me: DM me on discord, I've got them open at UserID: 463330608408559626
+- 📫 How to reach me: DM me on discord, I've got them open at UserID: 890108049375776781
 - ⚡ Fun fact: I work more than 40 hours per week, although not in the IT industry. I could also count to 150th digit of Pi!
 
